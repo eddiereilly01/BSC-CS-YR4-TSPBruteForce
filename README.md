@@ -1,4 +1,4 @@
-# TSPBruteForce
+# TSPBruteForce Written in Python
 I wrote this to improve my understanding of the travelling salesperson problem in preparation for future projects, and also to enhance my skills with python.
 
 The calculate_distance function:
